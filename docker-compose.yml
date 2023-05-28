@@ -2,7 +2,7 @@ version: '3'
 
 services:
   express_starter:
-    container_name: 'express_starter'
+    container_name: 'express_starter_new'
     build:
       context: .
       target: 'dev'
